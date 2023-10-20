@@ -14,15 +14,16 @@ Usage
 1. Clone this repository to your local machine:
 ```bash
 git clone <repository_url>
-Open the script in a code editor.
 ```
+
+Open the script in a code editor.
 
 2. Replace the access_key variable with your Abstract API key.
 
 Run the script:
 
 ```bash
-python currency_converter.py
+python3 currency_converter.py
 ```
 
 Follow the prompts to enter the currency you want to convert from, the currency you want to convert to, and the amount.
